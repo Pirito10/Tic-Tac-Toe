@@ -4,4 +4,4 @@ A very simple Tic-Tac-Toe terminal game, made as a beginner project to try mysel
 
 Very buggy for edge cases.
 
-To compile, simply use the **Makefile** provided.
+To compile, simply use the [**Makefile**](Makefile) provided.
