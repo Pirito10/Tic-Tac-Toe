@@ -6,7 +6,7 @@ functions.o: functions.c functions.h
 	$(CC) -c functions.c
 
 main: main.c functions.o
-	$(CC) functions.o main.c -o Three_In_A_Row
+	$(CC) functions.o main.c -o Tic-Tac-Toe
 
 clean:
-	rm -f Three_In_A_Row *.o *~ *.bak
+	rm -f Tic-Tac-Toe *.o *~ *.bak
